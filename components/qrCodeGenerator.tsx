@@ -25,7 +25,7 @@ function QRCodeGenerator() {
   };
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-blue-50 to-blue-100">
+    <div className="flex items-center justify-center min-h-screen">
       <Card className="flex-1 max-w-4xl mx-4 p-6 bg-white rounded-lg shadow-xl border border-gray-200">
         <CardHeader>
           <CardTitle className="text-4xl font-bold text-center text-gray-800">
